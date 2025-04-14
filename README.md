@@ -1,12 +1,49 @@
-# React + Vite
+# 💰 Expense Tracker App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and stylish Expense Tracker built with **React** and **Vite** that helps you track your daily expenses with ease. You can add, delete, search, and filter your transactions by category or keyword.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+#  Navigation
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Home Page** – Displays all expenses
+- **Add Expense** – Form to enter a new expense (name, amount, date)
+- **Search / Filter** – Filter expenses by keyword
+- **Sort Controls** – Sort expenses by amount or date
+- **Delete Option** – Remove an expense from the list
+
+---
+
+#  Features
+
+-  Add new expenses with a name, amount
+-  Filter expenses by text
+-  Sort expenses by amount or date
+-  Delete expenses
+- 💡Responsive & clean UI
+
+---
+
+## Built With
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [CSS Modules](https://github.com/css-modules/css-modules) 
+- [Cloudflare Pages](https://pages.cloudflare.com/) 
+
+---
+
+##  Getting Started
+
+### Prerequisites
+
+- Node.js & npm installed
+
+### Installation
+
+1. Clone the repo:
+```bash
+git clone https://github.com/your-username/expense-tracker.git
+
+Author:EDEL OMONDI
