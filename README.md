@@ -30,7 +30,7 @@ A simple and stylish Expense Tracker built with **React** and **Vite** that help
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [CSS Modules](https://github.com/css-modules/css-modules) 
-- [Cloudflare Pages](https://pages.cloudflare.com/) 
+- vercelPages
 
 ---
 
